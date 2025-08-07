@@ -60,10 +60,4 @@ Total of **7 regression models** trained:
 - scikit-learn  
 - xgboost  
 - lightgbm  
-- seaborn, matplotlib  
-
-## 📌 Recommendations
-
-- Add data visualizations like correlation matrix, distributions, and boxplots  
-- Store the best-performing model as a `.pkl` file for deployment  
-- Include a performance comparison table with RMSE scores  
+- seaborn, matplotlib
